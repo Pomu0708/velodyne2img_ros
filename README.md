@@ -1,0 +1,1 @@
+This code generate the image using the point cloud
